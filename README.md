@@ -5,7 +5,7 @@
 4. Node
 
 ## Run the multi containers App using docker-compose
-S😎MESH~[multi-container-application-production (master)]-$ **docker-compose up --build**
+S😎MESH~[multi-container-application-dev (master)]-$ **docker-compose up --build**
 ```
 Building api
 Step 1/6 : FROM node:alpine
